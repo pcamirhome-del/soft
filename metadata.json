@@ -1,0 +1,7 @@
+{
+  "name": "Soft Rose Modern Trade",
+  "description": "Enterprise resource planning and sales tracking system for Soft Rose Modern Trade, featuring sales logs, inventory, competitor tracking, and vacation management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
